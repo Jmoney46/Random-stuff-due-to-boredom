@@ -1,0 +1,19 @@
+#include <stdio.h>
+
+int main()
+{
+  int dsf,kj,io,re;
+  char egg;
+
+  dsf = 435;
+  kj = 8437535;
+  io = 43;
+  re = 8475;
+  egg = e;
+
+  printf("This is math: %d",dsf+io\n);
+  printf("More math cause I have to use all variables: %d",kj+re);
+  printf("and don't forget the letter! %c\n",egg);
+  printf("This is really basic because I was bored and just wanted to make some bullsh1t\n");
+  return(0);
+}
